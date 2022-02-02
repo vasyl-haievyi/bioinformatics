@@ -1,0 +1,30 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+original      ------DIDPNGLLEYSVV-YTDRALNHMSKAFQEVMNDLLSNLKTVY---NAEAAVIIP	50
+template      MDKLLLHVGPTTIKEDVLVAGLENNVGFTSKEFVEALAYSLKGLRYVMGASKNYQPLIIP	60
+                    .:.*. : *  :*   :. :.. ** * *.:   *..*: *    :    :***
+
+original      GSGTYGMEAVARQLTIDEDCLIIRNGWFSYRWTQILEKGKFAKSSTVLTAERTEDTEAPK	110
+template      GGGTSAMESVTSLLKPNDKILVVSNGVFGDRWEQIFKRYPVNVK--VLRPSPG-D-----	112
+              *.** .**:*:  *. ::. *:: ** *. ** **:::  .  .  **  .   *     
+
+original      PFAPVDIETAVAKIKEDKSAIVYAPHVETSSGIILSEEYIKALSEAVHSVGGLLVIDC-I	169
+template      YVKPGEVEE---EVRKSEYKLVALTHVETSTGVREPV---KDVINKIRKYVELIVVDGVS	166
+               . * ::*    ::::.:  :*   *****:*:       * : : ::.   *:*:*   
+
+original      ASGCVWLDMKELGIDVLISAPQKGWSSTPCAGLVMLSAAAIKKVESTE-SNCFSLDLKQW	228
+template      SVGAEEVKAEEWNVDVYLTASQKALGSAAGLGLLLLSPKALSILDSQNSIAGYYLDLRNW	226
+              : *.  :. :* .:** ::* **. .*:   **::**  *:. ::* :    : ***::*
+
+original      LTIMRAYENGGHAYHATMPTDSLRQFRDAILEAKEIGFDILRDAQWELGNRVRKVLTDKG	288
+template      LPVMRGAEEGKAAYFATPPVHVILQLAEAFRLIEKEGIENRIKRHTMVASAIRAGLEALG	286
+              * :**. *:*  **.** *.. : *: :*:   :: *::   . :  :.. :*  *   *
+
+original      IESVAAEG--F--EAPGVVVSYTERDDMHKGSAFAEAGLQIAAGVPLKVGEPDNFKTFRL	344
+template      LEIVARRPESYSNTVTGVILKVADPQKVL--------AGTVNEGVEFAPGVHPAFKYFRI	338
+              :* ** .   :   . **::. :: :.:         .  :  ** :  *    ** **:
+
+original      GLFGLDKLTDIDGTVERFEKALDEV----------------LA---	371
+template      GHMGWVTPNDAIIAISVIERTLRKLGEPIRFGEGVKAVEEVLFSAR	384
+              * :*  . .*   ::. :*::* ::                *    
